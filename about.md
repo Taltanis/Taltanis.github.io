@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hallo zusammen und willkommen auf der Projektseite des MUDs Taltanis!
 
-### More Information
+Taltanis ist ein MUD auf der Basis von Evennia.
 
-A place to include any other types of information that you'd like to include about yourself.
+Auf dieser Seite schreibt der Gründer und derzeit einzige Entwickler von Taltanis, Drakon.
 
-### Contact me
+Und der Name Taltanis stammt übrigens aus einem Projekt, das mal in der Zeitschrift ZauberZeit veröffentlicht wurde. Vor 30 Jahren oder so.
 
-[email@domain.com](mailto:email@domain.com)
+[taltanis@mailbox.org](mailto:taltanis@mailbox.org)
