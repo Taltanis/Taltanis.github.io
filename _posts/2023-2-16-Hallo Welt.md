@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Drakon wer?
+title: Hallo Welt!
 ---
 
 Hallo zusammen, ich bin Drakon.
