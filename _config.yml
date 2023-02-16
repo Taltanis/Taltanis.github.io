@@ -6,7 +6,7 @@
 name: Taltanis
 
 # Short bio or description (displayed in the header)
-description: Ein deutschsprachiges MUD auf Basis von [Evennia](https://www.evennia.com/)
+description: Ein deutschsprachiges MUD auf Basis von Evennia
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/taltanis/taltanis.github.io/master/images/taltanis.png
