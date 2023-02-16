@@ -6,7 +6,7 @@ permalink: /about/
 
 Hallo zusammen und willkommen auf der Projektseite des MUDs Taltanis!
 
-Taltanis ist ein MUD auf der Basis von Evennia.
+Taltanis ist ein MUD auf der Basis von [Evennia](https://www.evennia.com/).
 
 Auf dieser Seite schreibt der Gründer und derzeit einzige Entwickler von Taltanis, Drakon.
 
