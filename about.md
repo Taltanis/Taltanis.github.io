@@ -14,4 +14,4 @@ Taltanis hat ein [GitHub-Repository](https://github.com/Taltanis/taltanis), ein 
 
 Und der Name Taltanis stammt übrigens aus einem Projekt, das mal in der Zeitschrift ZauberZeit veröffentlicht wurde. Vor 30 Jahren oder so.
 
-[taltanis@mailbox.org](mailto:taltanis@mailbox.org)
+Eine Email-Adresse gibt es auch: [taltanis@mailbox.org](mailto:taltanis@mailbox.org)
