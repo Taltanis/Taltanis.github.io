@@ -3,7 +3,7 @@ layout: post
 title: Hallo Welt!
 ---
 
-Hallo zusammen, ich bin Drakon. Gründer und derzeit noch einziger Entwickler des MUDs Taltanis. Und ich möchte hier etwas zu meiner Motivation schreiben, mit einem MUD zu beginnen. Und zu meinen Ideen dazu. Und meiner Arbeit daran.
+Hallo zusammen, ich bin Drakon. Gründer und derzeit noch einziger Entwickler des MUDs Taltanis. Und ich werde hier etwas zu meiner Motivation schreiben, mit einem eigenen MUD zu beginnen. Und zu meinen Ideen dazu. Und meiner Arbeit daran.
 
 Das erste Mal entdeckt habe ich MUDs während meines Studiums, im Jahr 1998. Die Älteren unter euch werden sich erinnern: Das war definitiv ein anderes Internet damals. Textbasierte Spiele waren noch normal, virtuelle Welten mit zig Spielenden dagegen exotisch. Das war dann auch das Erste, was mich daran fasziniert hat: Gemeinsam mit anderen in einer virtuellen Umgebung zu sein. Interagieren zu können mit dieser Welt und mit den anderen Spielern. Und zu erleben, wie mein Kopf die Bilder dazu liefert. Ein Buch, das sich selber schreibt.
 
